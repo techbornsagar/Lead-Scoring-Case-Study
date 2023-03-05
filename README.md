@@ -4,3 +4,16 @@ Industry professionals can purchase online courses from X Education, a company t
 
 
 #### Steps Followed
+
+* Reading Data
+* Cleaning Data
+* EDA
+* Creating Dummy
+* Splitting data into train and test set
+* Building Model
+* Making Predictions
+* Model Evaluation
+* ROC Curve
+* Prediction on test set
+* Precision- Recall
+
